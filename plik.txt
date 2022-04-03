@@ -1,4 +1,5 @@
 pierwsza linijka
 linijka dodana
 druga linijka
+linijka drugiego brancha
 trzecia linika linijka
