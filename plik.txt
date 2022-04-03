@@ -1,3 +1,4 @@
 pierwsza linijka
+linijka dodana
 druga linijka
 trzecia linika linijka
