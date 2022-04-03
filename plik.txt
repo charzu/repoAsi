@@ -3,6 +3,8 @@ linijka dodana
 druga linijka
 linijka drugiego brancha
 
+Asia jest super
+
 dodałem cos. Ładne?
 
 trzecia linika linijka
