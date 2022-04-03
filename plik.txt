@@ -1,5 +1,6 @@
 pierwsza linijka
 linijka dodana
+charzu psuja, dodał mi tu coś
 druga linijka
 linijka drugiego brancha
 
