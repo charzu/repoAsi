@@ -1,4 +1,8 @@
 pierwsza linijka
 linijka dodana
 druga linijka
+linijka drugiego brancha
+
+dodałem cos. Ładne?
+
 trzecia linika linijka
